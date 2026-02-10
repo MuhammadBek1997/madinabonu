@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    width: 1920px;
+    height: 8183px;
+    background: #FFFFFF;
+}
+.nav-logo{
+    margin-left: 15pc;
+}
+.nav-list{
+    display: flex;
+    gap: 2pc;
+    margin-left: 20pc;
+}
+.nav-list{
+    color: yellow;  
+}
+.Navbar{
+    background: grey;
+    width: 1920px;
+    height: 60px;
+    gap: 2pc;
+    display: flex;
+    align-items: center;
+}
