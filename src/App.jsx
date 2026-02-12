@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom'
+
 import './App.css'
 import Asosiy from './components/Asosiy'
 import Navbar from './components/Navbar'
