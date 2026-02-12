@@ -1,0 +1,330 @@
+
+body{
+    margin: 0 auto;
+}
+
+.hero{
+    width: 1920px;
+    height: 1042px;
+    background: url(./public/images/Image-one.png) no-repeat;
+    padding-left: 22pc;
+    padding-top: 20pc;
+}
+.hero h2{
+    font-size: 85px;
+}
+.hero h5{
+    font-size: 22px;
+    margin-top: 2pc;
+
+}
+.hero-matn{
+    margin-top: 1pc;
+}
+.hero-button{
+    width: 220px;
+    height: 75px;
+    background: #292F36;
+    color: #FFFFFF;
+    font-size: 18px;
+    border-radius: 18px;
+    margin-top: 2pc;
+}
+.hero-button div{
+    display: flex;
+    font-size: 18px;
+}
+.hero-button img{
+    width: 15px;
+    height: 13px;
+    padding-left: 1pc;
+}
+.cards{
+    display: flex;
+    gap: 18pc;
+    justify-content: center;
+    margin-top: 8pc;
+}
+.cards h2{
+    color: #292F36;
+    font-size: 25px;
+}
+.cards p{
+    color: #4D5053;
+    font: 22px;
+    margin-top: 2pc;
+}
+.cards-read-more{
+    color: black;
+    font-size: 18px;
+    margin-top: 3pc;
+}
+.cards-read-more img{
+    margin-left: 1pc;
+}
+.ellipse-call{
+    width: 93px;
+    height: 93px;
+    background: url(./public/images/Ellipse.png);
+}
+
+.five{
+    margin-left: 1.8pc;
+    margin-top: 1.8pc;
+}
+.art{
+    margin-left: 18pc;
+    display: flex;
+    gap: 16pc;
+    margin-top: 6pc;
+}
+.art-top{
+    margin-top: 3pc;
+}
+.art h2{
+    font-size: 50px;
+    font-weight: 400;
+}
+.art p{
+    font-size: 22px;
+    margin-top: 3pc;
+    font-weight: 400;
+}
+.ellipse{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-top: 5pc;
+}
+.art-button{
+    width: 238px;
+    height: 75px;
+    border-radius: 18px;
+    background-color: #292F36;
+    margin-top: 4pc;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.art-button img{
+    padding-left: 1pc;
+}
+.people{
+    width: 1199px;
+    height: 679px;
+    background: #F4F0EC;
+    border-radius: 70px;
+    margin-left: 300px;
+    margin-top: 200px;
+    
+}
+.people h1{
+    color: #292F36;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 5pc;
+}
+.people-cards{
+    width: 370px;
+    height: 339px;
+    display: flex;
+    gap: 30px;
+    margin-left: 120px;
+}
+.people-list{
+    background: #FFFFFF;
+    border-radius: 18px;
+    margin-top: 5pc;
+}
+.people-list p{
+    width: 296px;
+    padding-top: 30px;
+    font-size: 22px;
+    margin-left: 1pc;
+}
+.list-img{
+    display: flex;
+    gap: 2pc;
+    margin-top: 2pc;
+    margin-left: 1pc;
+}
+.photo-img{
+    border-radius: 12pc;
+}
+.imgs{
+    margin-top: 12pc;
+    margin-left: 15pc;
+    display: flex;
+    gap: 12pc;
+}
+.list-text{
+    font-size: 12px;
+}
+.proekt{
+    margin-top: 16pc;
+}
+.proekt-sarlavha{
+    width: 1201px;
+    margin-left: 250px;
+}
+.proekt h2{
+    font-size: 50px;
+    color: #292F36;
+    text-align: center;
+}
+.proekt p{
+    font-size: 22px;
+    color: #4D5053;
+    text-align: center;
+}
+.proekt-cards{
+    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    justify-content: center;
+    align-items: center;
+    gap: 8pc;
+    margin-left: 12pc;
+    margin-top: 6pc;
+}
+.proekt-list{
+    margin-top: 3pc;
+}
+
+.proekt-yon{
+    display: flex;
+    gap: 17.5pc;
+}
+.proekt-yon h6{
+    font-size: 25px;
+    margin-top: 12px;
+}
+.proekt-yon h3{
+    font-size: 22px;
+    margin-top: 12px;
+    color: #4D5053;
+}
+.proekt-yon button{
+    width: 70px;
+    height: 70px;
+    background: #F4F0EC;
+    border-radius: 35px;
+    margin-top: 12px;
+}
+.number{
+    width: 1920px;
+    height: 457px;
+    background: #F4F0EC;
+    display: flex;
+    gap: 12pc;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5pc;
+}
+.number h4{
+    font-size: 85px;
+    color: #CDA274;
+    text-align: center;
+}
+.number h5{
+    font-size: 22px;
+    color: #4D5053;
+}
+.number-line{
+    border: 2px solid #CDA274;
+}
+.num-line{
+    display: flex;
+    gap: 5pc;
+}
+.articles-sarlavha{
+    width: 1199px;
+    margin-left: 300px;
+    margin-top: 8pc;
+}
+
+.art-text h2{
+    margin-left: 30pc;
+    font-size: 50px;
+    color: #292F36;
+}
+.art-text p{
+    margin-left: 18pc;
+    margin-top: 1pc;
+    font-size: 22px;
+    color: #4D5053;
+}
+.article-cards{
+    display: flex;
+    gap: 8pc;
+    margin-top: 5pc;
+}
+.ar{
+    width: 340px;
+    height: 289px;
+    position: absolute;
+}
+.article-button{
+    width: 129px;
+    height: 41px;
+    background: #FFFFFF;
+    color: #4D5053;
+    position: relative;
+    margin-top: 14pc;
+    margin-left: 2pc;
+}
+.article-imgs{
+    width: 340px;
+    height: 700px;
+}
+.article-list{
+    width: 382px;
+    height: 521px;
+}
+.article-list h2{
+    font-size: 25px;
+    color: #292F36;
+    width: 280px;
+    height: 70px;
+}
+.article-bottom{
+    margin-top: 2pc;
+}
+.sana{
+    display: flex;
+    gap: 10pc;
+    margin-top: 2pc;
+}
+.sana h3{
+    color: #4D5053;
+}
+.wanna{
+    width: 1199px;
+    height: 374px;
+    background: #292F36;
+    border-radius: 70px;
+    margin-left: 300px;
+    text-align: center;
+    padding-top: 5pc;
+    margin-top: 5pc;
+}
+.wanna h2{
+    color: #FFFFFF;
+    font-size: 50px;
+}
+.wanna p{
+    color: #FFFFFF;
+    margin-top: 1pc;
+    font-size: 22px;
+}
+.wanna button{
+    width: 237px;
+    height: 75px;
+    background: #CDA274;
+    border-radius: 18px;
+    font-size: 18px;
+    margin-top: 2pc;
+    color: #FFFFFF;
+}
+.wanna-img{
+    margin-left: 1pc;
+}
