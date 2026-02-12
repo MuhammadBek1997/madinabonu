@@ -7,13 +7,13 @@ const Footer = () => {
         <div className="footer">
             <div className="footer-top">
                 <div className="footer-left">
-                    <img className="footer-logo" src="./images/Logo.svg" alt="" />
+                    <img className="footer-logo" src="./public/images/homeImages/Logo.svg" alt="" />
                     <p>It is a long established fact that a reader <br /> will be distracted lookings.</p>
                     <div className="footer-social-media">
-                        <img src="./images/facebook.png" alt="" />
-                        <img src="./images/twitter.png" alt="" />
-                        <img src="./images/linkedin.png" alt="" />
-                        <img src="./images/instagram.png" alt="" />
+                        <img src="./public/images/homeImages/facebook.png" alt="" />
+                        <img src="./public/images/homeImages/twitter.png" alt="" />
+                        <img src="./public/images/homeImages/linkedin.png" alt="" />
+                        <img src="./public/images/homeImages/.png" alt="" />
                     </div>
                 </div>
                 <div className="footer-list">

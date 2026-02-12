@@ -9,7 +9,7 @@ const Navbar = () => {
 
             <div className="Navbar">
                 <div className="nav-logo">
-                    <img src="./public/images/Logo.svg" alt="logo" />
+                    <img src="./public/images/homeImages/Logo.svg" alt="logo" />
                 </div>
 
                 <div className="nav-list">
@@ -25,7 +25,7 @@ const Navbar = () => {
                 </div>
 
                 <div className="nav-search">
-                    <img src="./public/images/Search.png" alt="" />
+                    <img src="./public/images/homeImages/Search.png" alt="" />
                 </div>
             </div>
 

@@ -6,7 +6,7 @@ const Asosiy = () => {
 
     let people = [
         {
-            img: "./public/images/natasha.jpg",
+            img: "./public/images/homeImages/natasha.jpg",
             ism: "Nattasha Mith",
             hudud: "Sydney, USA",
             description: "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been."
@@ -15,7 +15,7 @@ const Asosiy = () => {
 
         },
         {
-            img: "./public/images/raymond.png",
+            img: "./public/images/homeImages/raymond.png",
             ism: "Raymond Galario",
             hudud: "Sydney, Australia",
             description: "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been scrambled it to make a type book."
@@ -24,7 +24,7 @@ const Asosiy = () => {
 
         },
         {
-            img: "./public/images/benny.png",
+            img: "./public/images/homeImages/benny.png",
             ism: "Benny Roll",
             hudud: "Sydney, New York",
             description: "Lorem Ipsum is simply dummy text of the typesetting industry. Ipsum has been scrambled."
@@ -36,22 +36,22 @@ const Asosiy = () => {
 
     let ourProekt = [
         {
-            img: "./public/images/home1.png",
+            img: "./public/images/homeImages/home1.png",
             bino: "Modern Kitchan",
             decor: "Decor / Artchitecture"
         },
         {
-            img: "./public/images/home2.png",
+            img: "./public/images/homeImages/home2.png",
             bino: "Modern Kitchan",
             decor: "Decor / Artchitecture",
         },
         {
-            img: "./public/images/home3.png",
+            img: "./public/images/homeImages/home3.png",
             bino: "Modern Kitchan",
             decor: "Decor / Artchitecture",
         },
         {
-            img: "./public/images/home4.png",
+            img: "./public/images/homeImages/home4.png",                    
             bino: "Modern Kitchan",
             decor: "Decor / Artchitecture",
         }
@@ -60,21 +60,21 @@ const Asosiy = () => {
     let articles = [
         {
             id: 1,
-            img: "./images/article-img-one.png",
+            img: "./public/images/homeImages/article-img-one.png",
             izoh: "Let’s Get Solution For Building Construction Work",
             sana: "26 December,2022 ",
             button: "Kitchan Design"
         },
         {
             id: 2,
-            img: "./images/article-img-two.png",
+            img: "./public/images/homeImages/article-img-two.png",
             izoh: "Low Cost Latest Invented Interior Designing Ideas.",
             sana: "22 December,2022 ",
             button: "Living Design"
         },
         {
             id: 3,
-            img: "./images/article-img-three.png",
+            img: "./public/images/homeImages/article-img-three.png",
             izoh: "Best For Any Office & Business Interior Solution",
             sana: "25 December,2022 ",
             button: "Interior Design"
@@ -95,7 +95,7 @@ const Asosiy = () => {
 
                     Get Started
 
-                    <img src="./public/images/Vector.png" alt="" />
+                    <img src="./public/images/homeImages/Vector.png" alt="" />
 
                 </button>
             </div>
@@ -115,7 +115,7 @@ const Asosiy = () => {
 
                     <div className="cards-read-more">
                         Read More
-                        <img src="./public/images/Vector.png" alt="" />
+                        <img src="./public/images/homeImages/Vector.png" alt="" />
                     </div>
                 </div>
                 <div className="cards-top">
@@ -129,7 +129,7 @@ const Asosiy = () => {
 
                     <div className="cards-read-more">
                         Read More
-                        <img src="./public/images/Vector.png" alt="" />
+                        <img src="./public/images/homeImages/Vector.png" alt="" />
                     </div>
                 </div>
                 <div className="cards-top">
@@ -143,7 +143,7 @@ const Asosiy = () => {
 
                     <div className="cards-read-more">
                         Read More
-                        <img src="./public/images/Vector.png" alt="" />
+                        <img src="./public/images/homeImages/Vector.png" alt="" />
                     </div>
                 </div>
             </div>
@@ -166,7 +166,7 @@ const Asosiy = () => {
 
                     <div className="ellipse">
                         <div className="ellipse-call">
-                            <img className="five" src="./public/images/Call.svg" alt="" />
+                            <img className="five" src="./public/images/homeImages/Call.svg" alt="" />
                         </div>
                         <div>
                             <h1>012345678</h1>
@@ -178,13 +178,13 @@ const Asosiy = () => {
 
 
                     <button className="art-button">Get Free Estimate
-                        <img src="./public/images/Vector.png" alt="" />
+                        <img src="./public/images/homeImages/Vector.png" alt="" />
                     </button>
 
                 </div>
 
                 <div className="art-bottom">
-                    <img src="./public/images/Photo.jpg" alt="logo" />
+                    <img src="./public/images/homeImages/Photo.jpg" alt="logo" />
                 </div>
 
             </div>
@@ -227,11 +227,11 @@ const Asosiy = () => {
 
 
             <div className="imgs">
-                <img src="./public/images/01.svg" alt="" />
-                <img src="./public/images/02.svg" alt="" />
-                <img src="./public/images/03.svg" alt="" />
-                <img src="./public/images/04.svg" alt="" />
-                <img src="./public/images/05.svg" alt="" />
+                <img src="./public/images/homeImages/01.svg" alt="" />
+                <img src="./public/images/homeImages/02.svg" alt="" />
+                <img src="./public/images/homeImages/03.svg" alt="" />
+                <img src="./public/images/homeImages/04.svg" alt="" />
+                <img src="./public/images/homeImages/05.svg" alt="" />
             </div>
 
             <div className="proekt">
@@ -255,7 +255,7 @@ const Asosiy = () => {
                                             </div>
 
 
-                                            <button><img src="./public/images/Vector5.png" alt="" /></button>
+                                            <button><img src="./public/images/homeImages/Vector5.png" alt="" /></button>
 
                                         </div>
 
@@ -369,7 +369,7 @@ const Asosiy = () => {
                     It is a long established fact  will be distracted.
                 </p>
 
-                <button>Contact With Us<img className="wanna-img" src="./images/Vector-black.png" alt="" /></button>
+                <button>Contact With Us<img className="wanna-img" src="./public/images/homeImages/Vector-black.png" alt="" /></button>
             </div>
 
 

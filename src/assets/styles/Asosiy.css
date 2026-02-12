@@ -6,7 +6,7 @@ body{
 .hero{
     width: 1920px;
     height: 1042px;
-    background: url(./public/images/Image-one.png) no-repeat;
+    background: url(url../../../public/images/homeImages/Image-one.png)no-repeat;
     padding-left: 22pc;
     padding-top: 20pc;
 }
