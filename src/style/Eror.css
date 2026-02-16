@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Eror {
+    display: flex;
+    margin-top: 300px;
+}
+
+.Eror img {
+    width: 800px;
+    height: 820px;
+
+    border-bottom-left-radius: 190px;
+}
+
+.Eror h2 {
+    font-size: 250px;
+    color: #CDA274;
+    padding-top: 120px;
+    margin-left: 150px;
+    font-family: "DM Serif Display", serif;
+}
+
+.Eror p {
+    width: 569px;
+    margin-left: 150px;
+    font-size: 35px;
+    font-family: "DM Serif Display", serif;
+}
+
+.Eror button {
+    width: 253px;
+    height: 75px;
+    font-size: 18px;
+    background: #292F36;
+    color: white;
+    font-family: "Jost", sans-serif;
+    border-radius: 20px;
+    margin-left: 140px;
+    margin-top: 55px;
+}
