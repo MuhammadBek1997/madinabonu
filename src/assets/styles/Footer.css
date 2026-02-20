@@ -1,0 +1,39 @@
+.footer{
+    margin-top: 8pc;
+    margin-left: 300px;
+}
+.footer-logo{
+    margin-top: 3pc;
+}
+.footer-left p{
+    margin-top: 2pc;
+    color: #4D5053;
+}
+.footer-social-media{
+    display: flex;
+    gap: 3pc;
+    margin-top: 3pc;
+}
+.footer-top{
+    display: flex;
+    gap: 5pc;
+}
+.footer-list{
+    display: flex;
+    gap: 5pc;
+    margin-left: 2pc;
+}
+.footer-list-top div link{
+    color: #292F36;
+}
+
+.footer-list div{
+    margin-top: 2pc;
+    font-size: 20px;
+}
+.footer-bottom{
+    margin-top: 5pc;
+    margin-left: 300px;
+    color: #4D5053;
+    font-size: 22px;
+}
